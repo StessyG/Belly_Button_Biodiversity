@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(152,152,152);
+}
+
+#bar {
+    border-radius: 100%;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+p{
+    text-decoration-color: aqua;
+    font-size: 25px ;
+    font-weight: bold;
+    color:black;
+}
